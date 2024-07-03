@@ -1,0 +1,100 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "ComidaOaxacaIntent",
+          "samples": [
+            "comida tipica de oaxaca",
+            "platillos de oaxaca",
+            "platillos tipicos de oaxaca",
+            "cuales son los platillos tipicos de oaxaca"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "SitiosTuristicosIntent",
+          "samples": [
+            "mejores sitios turisticos de oaxaca",
+            "cuales son los mejores sitios turisticos de oaxaca",
+            "sitios turisticos de oaxaca",
+            "cuales son los lugares turisticos de oaxaca"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TrajesTipicosIntent",
+          "samples": [
+            "cuales son los trajes tipicos de oaxaca",
+            "trajes tipicos de oaxaca",
+            "dime cuales son los trajes tipicos de oaxaca"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PersonajesFamososIntent",
+          "samples": [
+            "personajes importantes de oaxaca",
+            "cuales son las personas importantes de oaxaca",
+            "personajes famosos",
+            "personajes famosos de oaxaca",
+            "personajes sobresalientes de oaxaca",
+            "cuales son los personajes famosos de oaxaca"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "InformacionOaxacaIntent",
+          "samples": [
+            "hablame de oaxaca",
+            "hablame sobre oaxaca",
+            "dame informacion de oaxaca",
+            "que sabes de oaxaca"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaIntent",
+          "samples": [
+            "pon musica tradicional de oaxaca",
+            "reproduce una cancion tipica de oaxaca",
+            "pon una cancion de oaxaca",
+            "reproduce musica tradicional de oaxaca",
+            "pon musica tipica de oaxaca",
+            "reproduce una cancion tradicional de oaxaca"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "informacion coltural"
+    }
+  }
+}
